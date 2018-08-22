@@ -258,6 +258,7 @@
 				INFOPLIST_FILE = "UITextField+Shake/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
 				PRODUCT_NAME = UITextField_Shake;
 				SKIP_INSTALL = YES;
 			};
@@ -273,6 +274,7 @@
 				INFOPLIST_FILE = "UITextField+Shake/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
 				PRODUCT_NAME = UITextField_Shake;
 				SKIP_INSTALL = YES;
 			};
